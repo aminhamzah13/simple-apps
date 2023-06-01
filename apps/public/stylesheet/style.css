@@ -7,3 +7,8 @@ body {
 .logo {
     width: 10%;
 }
+
+h1 {
+    color: red;
+    font-style: italic;
+}
